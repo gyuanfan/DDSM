@@ -1,1 +1,3 @@
 Prepare and train DDSM
+
+preprocess : generate original tif and contours
